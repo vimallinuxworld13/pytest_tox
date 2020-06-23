@@ -1,2 +1,2 @@
-# elegantframeworks
-Code stubs for Elegant Automation Frameworks with Python and Pytest (Udemy)
+# LW Pytest Tox frameworks
+Code Automation Frameworks with Python and Pytest
