@@ -1,0 +1,8 @@
+README.md
+setup.py
+lwcasing.egg-info/PKG-INFO
+lwcasing.egg-info/SOURCES.txt
+lwcasing.egg-info/dependency_links.txt
+lwcasing.egg-info/top_level.txt
+titlecase/__init__.py
+titlecase/titlecase.py

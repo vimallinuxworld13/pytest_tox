@@ -1,0 +1,36 @@
+action: GLOB, msg: packaging
+cwd: C:\Users\Vimal Daga\Desktop\zzzz\pytest\toxexample\elegantframeworks
+cmd: 'c:\users\vimal daga\anaconda3\python.exe' setup.py sdist --formats=zip --dist-dir '.tox\dist'
+running sdist
+running egg_info
+writing lwcasing.egg-info\PKG-INFO
+writing dependency_links to lwcasing.egg-info\dependency_links.txt
+writing top-level names to lwcasing.egg-info\top_level.txt
+reading manifest file 'lwcasing.egg-info\SOURCES.txt'
+writing manifest file 'lwcasing.egg-info\SOURCES.txt'
+running check
+creating lwcasing-1.0.1
+creating lwcasing-1.0.1\lwcasing.egg-info
+creating lwcasing-1.0.1\titlecase
+copying files to lwcasing-1.0.1...
+copying README.md -> lwcasing-1.0.1
+copying setup.py -> lwcasing-1.0.1
+copying lwcasing.egg-info\PKG-INFO -> lwcasing-1.0.1\lwcasing.egg-info
+copying lwcasing.egg-info\SOURCES.txt -> lwcasing-1.0.1\lwcasing.egg-info
+copying lwcasing.egg-info\dependency_links.txt -> lwcasing-1.0.1\lwcasing.egg-info
+copying lwcasing.egg-info\top_level.txt -> lwcasing-1.0.1\lwcasing.egg-info
+copying titlecase\__init__.py -> lwcasing-1.0.1\titlecase
+copying titlecase\titlecase.py -> lwcasing-1.0.1\titlecase
+Writing lwcasing-1.0.1\setup.cfg
+creating '.tox\dist\lwcasing-1.0.1.zip' and adding 'lwcasing-1.0.1' to it
+adding 'lwcasing-1.0.1\PKG-INFO'
+adding 'lwcasing-1.0.1\README.md'
+adding 'lwcasing-1.0.1\setup.cfg'
+adding 'lwcasing-1.0.1\setup.py'
+adding 'lwcasing-1.0.1\lwcasing.egg-info\dependency_links.txt'
+adding 'lwcasing-1.0.1\lwcasing.egg-info\PKG-INFO'
+adding 'lwcasing-1.0.1\lwcasing.egg-info\SOURCES.txt'
+adding 'lwcasing-1.0.1\lwcasing.egg-info\top_level.txt'
+adding 'lwcasing-1.0.1\titlecase\titlecase.py'
+adding 'lwcasing-1.0.1\titlecase\__init__.py'
+removing 'lwcasing-1.0.1' (and everything under it)
